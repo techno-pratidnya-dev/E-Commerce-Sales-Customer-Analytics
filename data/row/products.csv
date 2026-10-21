@@ -1,0 +1,42 @@
+﻿product_id,product_name,category,unit_price,cost_price
+P001,Wireless Mouse,Electronics,599,345.86
+P002,Bluetooth Headphones,Electronics,1999,1330.49
+P003,Smart Watch,Electronics,3499,2336.35
+P004,USB-C Hub,Electronics,1299,971.39
+P005,External SSD,Electronics,4599,2638.02
+P006,Keyboard,Electronics,899,540.62
+P007,Power Bank,Electronics,1499,1031.67
+P008,Laptop Stand,Electronics,1199,812.93
+P009,Cotton T-Shirt,Fashion,499,364.36
+P010,Denim Jeans,Fashion,1799,1216.12
+P011,Travel Backpack,Fashion,1599,1148.12
+P012,Casual Shirt,Fashion,999,725.94
+P013,Running Jacket,Fashion,2199,1589.3
+P014,Kurta,Fashion,899,615.72
+P015,Python Programming Book,Books,799,483.54
+P016,Fiction Novel,Books,499,344.94
+P017,Data Analytics Handbook,Books,899,517.35
+P018,SQL Practice Guide,Books,599,441.98
+P019,Machine Learning Basics,Books,999,652.77
+P020,Water Bottle,Home & Kitchen,299,220.48
+P021,Coffee Maker,Home & Kitchen,2999,2122.07
+P022,Desk Lamp,Home & Kitchen,899,634.93
+P023,Ceramic Mug Set,Home & Kitchen,699,418.25
+P024,Air Fryer,Home & Kitchen,4999,3038.63
+P025,Storage Box,Home & Kitchen,399,309.38
+P026,Running Shoes,Footwear,2499,1908.59
+P027,Casual Sneakers,Footwear,1999,1469.63
+P028,Sandals,Footwear,799,623.16
+P029,Formal Shoes,Footwear,2299,1536.02
+P030,Office Chair,Furniture,5499,3120.98
+P031,Study Table,Furniture,3999,2512.53
+P032,Bookshelf,Furniture,2799,1898.32
+P033,Side Table,Furniture,1499,925.16
+P034,Yoga Mat,Fitness,999,654.56
+P035,Resistance Bands,Fitness,399,299.88
+P036,Dumbbell Set,Fitness,1599,1138.35
+P037,Skipping Rope,Fitness,249,170.02
+P038,Notebook Pack,Stationery,199,110.58
+P039,Pen Set,Stationery,149,106.31
+P040,Planner,Stationery,349,221.13
+P041,Highlighter Set,Stationery,179,115.83
